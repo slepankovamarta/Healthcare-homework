@@ -1,4 +1,5 @@
-Predikce srdečních onemocnění 
+ [Predikce srdečních onemocnění](Stapro.ipynb)
+
 Tento projekt využívá dataset heart-disease.csv, který obsahuje anonymizovaná data pacientů a informaci o tom, zda mají srdeční onemocnění.
 
 Přehled projektu
