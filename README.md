@@ -1,4 +1,4 @@
- [Predikce srdečních onemocnění](Stapro.ipynb)
+ [Predikce srdečních onemocnění](https://github.com/slepankovamarta/Marta_excercises/blob/9c7dc27b38ef468c30c3979042b2b7b44a939b1b/Stapro.ipynb)
 
 Tento projekt využívá dataset heart-disease.csv, který obsahuje anonymizovaná data pacientů a informaci o tom, zda mají srdeční onemocnění.
 
